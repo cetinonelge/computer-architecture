@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1751018652" />
+    <testcase name="Pipeline_test" classname="Pipeline_Test" file="/home/conelge/cocotb-env/cocotb_tests/446_LABS/PRE4/Test_exp4/Pipeline_Test.py" lineno="233" time="0.03813886642456055" sim_time_ns="346000.001" ratio_time="9072110.249642448" />
+  </testsuite>
+</testsuites>

@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1751019216" />
+    <testcase name="Single_cycle_test" classname="Single_Cycle_Test" file="/home/conelge/cocotb-env/cocotb_tests/446_LABS/PRE2/Test_exp2/Single_Cycle_Test.py" lineno="183" time="0.020257234573364258" sim_time_ns="160000.001" ratio_time="7898412.80755963" />
+  </testsuite>
+</testsuites>
